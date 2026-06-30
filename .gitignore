@@ -1,0 +1,21 @@
+# Entornos y cachés de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Colab / Jupyter
+.colab/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos sensibles o pesados que no deban subirse (ajustar según el caso)
+# data/*.csv
+
+# Modelos descargados localmente (Hugging Face cache)
+*.bin
+*.pt
+*.h5
