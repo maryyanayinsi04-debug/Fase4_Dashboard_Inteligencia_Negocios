@@ -5,7 +5,7 @@ Curso: Métodos Cuantitativos y Cualitativos para los Negocios (107071)
 Programa: Maestría en Administración de Organizaciones
 Universidad Nacional Abierta y a Distancia (UNAD) — Escuela ECACEN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/NOMBRE-REPO/blob/main/notebooks/Fase4_Dashboard_Inteligencia_Negocios.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/maryyanayinsi04-debug/Fase4_Dashboard_Inteligencia_Negocios/blob/main/Fase4_Dashboard_Inteligencia_Negocios.ipynb)
 
 > Actualizar el enlace del badge una vez creado el repositorio, reemplazando `maryyanayinsi04-debug/Fase4_Dashboard_Inteligencia_Negocios` por el usuario y nombre reales en GitHub.
 
