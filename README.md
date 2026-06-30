@@ -7,7 +7,7 @@ Universidad Nacional Abierta y a Distancia (UNAD) — Escuela ECACEN
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/NOMBRE-REPO/blob/main/notebooks/Fase4_Dashboard_Inteligencia_Negocios.ipynb)
 
-> Actualizar el enlace del badge una vez creado el repositorio, reemplazando `USUARIO/NOMBRE-REPO` por el usuario y nombre reales en GitHub.
+> Actualizar el enlace del badge una vez creado el repositorio, reemplazando `maryyanayinsi04-debug/Fase4_Dashboard_Inteligencia_Negocios` por el usuario y nombre reales en GitHub.
 
 ## Integrantes
 
