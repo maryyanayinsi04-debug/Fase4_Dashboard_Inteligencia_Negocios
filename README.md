@@ -13,7 +13,6 @@ Universidad Nacional Abierta y a Distancia (UNAD) — Escuela ECACEN
 
 - Maryya Nayinsi Cossio Porras
 - Carlos Augusto Sierra
-- Carlos Mario Acuña
 
 **Tutora:** Ana González
 
